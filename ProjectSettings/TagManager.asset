@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Patty
+  - Heel
+  - Oil
+  - Table
+  - Basket
+  - Cup
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Patty
+  - Water
+  - UI
+  - CupLayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: New Layer 1
+    uniqueID: 1615910811
+    locked: 0
+  - name: New Layer 2
+    uniqueID: 2954701809
+    locked: 0
+  - name: New Layer 3
+    uniqueID: 3366631951
+    locked: 0
+  - name: New Layer 4
+    uniqueID: 1937021641
+    locked: 0
+  - name: New Layer 5
+    uniqueID: 477783481
+    locked: 0
+  - name: New Layer 6
+    uniqueID: 3834905381
+    locked: 0
+  - name: New Layer 7
+    uniqueID: 2738170291
+    locked: 0
+  - name: New Layer 8
+    uniqueID: 785891375
+    locked: 0
+  - name: New Layer 9
+    uniqueID: 155421077
+    locked: 0
+  - name: New Layer 10
+    uniqueID: 348016483
+    locked: 0
+  - name: New Layer 11
+    uniqueID: 1676847335
+    locked: 0
